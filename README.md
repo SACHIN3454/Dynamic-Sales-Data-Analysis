@@ -1,6 +1,3 @@
-Here's the README for your project in GitHub format:
-
-```markdown
 # Dynamic Sales Data Analysis Project
 
 ## Project Overview
