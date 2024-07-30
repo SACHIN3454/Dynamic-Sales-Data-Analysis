@@ -3,7 +3,7 @@
 ## Project Overview
 This project is designed to dynamically analyze sales data, update transactions, and visualize the sales data using Power BI. The user interface is built with Tkinter, and the sales data is stored and managed in a MySQL database. The project also includes a Power BI dashboard for comprehensive data analysis.
 
-#Power BI Representation
+##Power BI Representation
 ![Power BI Representation](https://cdn.discordapp.com/attachments/1008787070493392936/1267900542441492521/Fox_Store_Sales_Analysis_Img.png?ex=66aa77e5&is=66a92665&hm=354383457a7a75d72506816c8ce27b3b3f1221d81c04330dea02f9b45fc7ce9e&)
 
 ## Features
